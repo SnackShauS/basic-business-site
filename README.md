@@ -1,4 +1,4 @@
-# basic-business-site
+# basic-business-website
 
 First and foremost, it is going to be a prototype of a common business website. 
 
